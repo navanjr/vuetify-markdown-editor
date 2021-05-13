@@ -1,8 +1,8 @@
 {
-  "name": "@navanjr/vuetify-markdown-editor",
-  "version": "3.3.7",
+  "name": "@inkbird.io/inkbird.io-vuetify-markdown-editor",
+  "version": "1.0.0",
   "description": "Forked from vuetify-markdown-editor, A Vue.js Component for editing and previewing markdown.",
-  "author": "DCsunset",
+  "author": "navanjr",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name vuetify-markdown-editor --formats umd ./src/build-entry.js",
@@ -70,6 +70,13 @@
     "markdown-editor"
   ],
   "license": "MIT",
-  "repository":"https://github.com/navanjr/vuetify-markdown-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/navanjr/vuetify-markdown-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/navanjr/vuetify-markdown-editor/issues"
+  },
+  "homepage": "https://github.com/navanjr/vuetify-markdown-editor#readme",
   "types": "./types/index.d.ts"
 }
