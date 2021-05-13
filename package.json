@@ -72,7 +72,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DCsunset/vuetify-markdown-editor"
+    "url": "git+https://github.com/navanjr/vuetify-markdown-editor"
   },
-  "types": "./types/index.d.ts"
+  "types": "./types/index.d.ts",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
