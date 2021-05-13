@@ -1,5 +1,5 @@
 {
-  "name": "vuetify-markdown-editor",
+  "name": "@navanjr/vuetify-markdown-editor",
   "version": "3.3.3",
   "description": "A Vue.js Component for editing and previewing markdown.",
   "author": "DCsunset",
