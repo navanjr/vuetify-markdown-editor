@@ -70,10 +70,7 @@
     "markdown-editor"
   ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/navanjr/vuetify-markdown-editor"
-  },
+  "repository":"https://github.com/navanjr/vuetify-markdown-editor",
   "types": "./types/index.d.ts",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
