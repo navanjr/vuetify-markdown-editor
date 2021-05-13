@@ -1,7 +1,7 @@
 {
   "name": "@navanjr/vuetify-markdown-editor",
   "version": "3.3.7",
-  "description": "A Vue.js Component for editing and previewing markdown.",
+  "description": "Forked from vuetify-markdown-editor, A Vue.js Component for editing and previewing markdown.",
   "author": "DCsunset",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -71,8 +71,5 @@
   ],
   "license": "MIT",
   "repository":"https://github.com/navanjr/vuetify-markdown-editor",
-  "types": "./types/index.d.ts",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  }
+  "types": "./types/index.d.ts"
 }
