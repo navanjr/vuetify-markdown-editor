@@ -77,6 +77,8 @@ export default {
         mermaid: {
           theme: "dark"
         }
+        // sets the class on the render dev element
+        devClass: "custom_class"
       }
     };
   },
