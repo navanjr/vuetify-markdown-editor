@@ -85,7 +85,7 @@
 			>
 				<div>
 					<div
-						:class="renderDivClass || 'subheading text--primary markdown-text'"
+						:class="renderConfig.divClass || 'subheading text--primary markdown-text'"
 						v-html="compiled"
 					/>
 				</div>
@@ -210,10 +210,6 @@ export default {
 		baseUrl: {
 			type: String,
 			default: '/'
-		},
-		renderDivClass: {
-			type: String,
-			default: null
 		}
 	},
 
